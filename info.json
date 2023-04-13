@@ -1,0 +1,26 @@
+{
+    "name": "Nelson Leung",
+    "website": "https://nleung77.github.io/",
+    "linkedin": "https://www.linkedin.com/in/nleung77/",
+    "github": "nleung77",
+    "email": "nleung77@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Quality Assurance",
+        "Hardware/Mobile Repair"
+    ],
+    "otherSkills": [
+        "Drone Flying",
+        "Hardware/Mobile Repair",
+        "Customer Relations"
+    ]
+}
